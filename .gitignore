@@ -12,3 +12,5 @@ pom.xml
 .midje-grading-config.clj
 .travis.yml
 structured-data.iml
+.lein-repl-history
+.nrepl-port
